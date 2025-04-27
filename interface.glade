@@ -4,7 +4,7 @@
   <requires lib="gtk+" version="3.24"/>
   <object class="GtkWindow" id="main_window">
     <property name="can-focus">False</property>
-    <property name="title" translatable="yes">Veuillez ajouter votre executable à Lutris.</property>
+    <property name="title" translatable="yes">Add your executable to Lutris.</property>
     <child>
       <object class="GtkBox">
         <property name="visible">True</property>
