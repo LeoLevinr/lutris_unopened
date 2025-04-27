@@ -1,4 +1,4 @@
-# lutris_unopened
+# Lutris Unopened
 Let you execute and setup (only if the .exe isn't on it yet) your .exe files from Lutris without opening it. (You just have to click on the .exe).
 
 # /!\ Important
