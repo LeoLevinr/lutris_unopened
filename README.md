@@ -8,4 +8,5 @@ Multi-setups aren't supported yet.
 
 
 # How to use it
+- Have Lutris installed.
 - Make aoi.sh the default .exe launcher, that's it!
